@@ -5,11 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-
-<h1 id="answer">แปลงหน่วย</h1>
-
-<script src="app.js"></script>
-<body>
     
 </body>
-</html>
+    
+    <p id="Mytext">eiei</p>
+
+    <button id="Btn">click to change</button>
+
+
+<script>
+
+    const button = document.getElementById ("Btn");
+
+    button.addEventListener("click", function() {
+        const Mytext = getElementById("Mytext");
+        Mytext.textcontent = "Hi";
+    })
+
+
+</script>
+
+<link rel="stylesheet" href="style.css">
+
+
+
+<h1>โปรแกรมแปรงหน่วย</h1>
+<input id="inputvalue" type="text"/>
+<button onclick="tocelsiusprogram(document.getElementById('inputvalue').value)">แปลงเป็นcelsius</button>
+<button onclick="fahrenheisprogram(document.getElementById('inputvalue').value)">แปลงเป็นfahrenhei</button>
+<script src="app.js"></script>
+<body>
+</html>                 

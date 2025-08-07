@@ -1,7 +1,11 @@
-@media (max-width: 479px) {
-    body {
+@media (max-width: 480px) {
+    h1 {
         font-size: 14px;
-        background: #eee;
+    }
+    input, button {
+
+        font-size: 20px;
+        padding: 10px;
     }
 }
 
