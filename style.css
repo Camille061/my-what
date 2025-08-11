@@ -183,7 +183,20 @@
     margin-left: 500px;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
+}
 
+.day {
+text-align: center;
+margin-top: 20px;
+}
+
+.btn1, .btn2, .btn3, .btn4, .btn5 {
+    border: none;
+    border-radius: 35px;
+    background: linear-gradient(to right, #ff0000, #ff5cf4);
+ width: 70px;
+ height: 25px;
+ display: flex;
 }
 
  /* git init
