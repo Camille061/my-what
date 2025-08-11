@@ -99,7 +99,7 @@
 .left-list {
     max-width: 100px;
     margin-right: 500px;
-    height: 100px;
+    height: 150px;
     background: linear-gradient(to right, #000000, #0040ff);
     color: #eee;
     position: fixed;
