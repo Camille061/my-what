@@ -125,14 +125,16 @@
 }
 
 .text-head-2day {
-    margin-top: 30px;
+     margin: 0 auto;
     font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .twoday-unlimited-speed {
-    margin-left: 30px;
+ padding: 5px;
+    margin: 0 auto;
     border: solid;
-    margin-left: 500px;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
 }
@@ -181,3 +183,10 @@
     border-radius: 20px;
 
 }
+
+ /* git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Camille061/true.git
+git push -u origin main  */
