@@ -117,10 +117,11 @@
 
 .text-head2 {
    margin: 0 auto;
-   display: flex;
+
     font-weight: bold;
-    border-radius: 10px;
-    font-family: "Mitr", sans-serif;
+  
+
+    text-align: center;
 }
 
 .text-head-2day {
