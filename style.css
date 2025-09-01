@@ -84,8 +84,7 @@
 }
 
 .list-unlimited-speed-call {
-    padding: 5px;
-    margin: 0 auto;
+  margin: 0 auto;
     border: solid;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
