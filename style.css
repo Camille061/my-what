@@ -84,6 +84,8 @@
 }
 
 .list-unlimited-speed-call {
+    padding: 5px;
+    margin: 0 auto;
     border: solid;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
@@ -117,10 +119,7 @@
 
 .text-head2 {
    margin: 0 auto;
-
     font-weight: bold;
-  
-
     text-align: center;
 }
 
@@ -146,41 +145,38 @@
     margin-top: 20px;
 }
 
-.text-head-full-speed-week {
-    margin-top: 30px;
-    font-weight: bold;
-}
-
-.full-speed-week {
-    margin-left: 30px;
-    border: solid;
-    margin-left: 500px;
-    background: linear-gradient(to right, #f2ff00, #ececec);
-    border-radius: 20px;
-}
-
 .text-head-unlimited-speed-week {
-    margin-top: 30px;
-    font-weight: bold;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 15px;
+    text-align: center;
 }
 
 .unlimited-speed-week {
-     margin-left: 30px;
+  padding: 5px;
+    margin: 0 auto;
     border: solid;
-    margin-left: 500px;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
 }
 
-.text-head-unlimited-spee {
-      margin-top: 30px;
-    font-weight: bold;
+.text-head-unlimited-speed-weekfreecall {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 15px;
+    text-align: center;
+}
+
+.head-week2 {
+      margin: 0 auto;
+    max-width: 400px;
+    padding: 15px;
+    text-align: center;
 }
 
 .-week-freecall {
-     margin-left: 30px;
+ margin: 0 auto;
     border: solid;
-    margin-left: 500px;
     background: linear-gradient(to right, #f2ff00, #ececec);
     border-radius: 20px;
 }
@@ -196,6 +192,31 @@ margin-top: 20px;
     background: linear-gradient(to right, #ff0000, #ff5cf4);
 padding: 3px;
 }
+
+.full-speed-week {
+    margin: 0 auto;
+    border: solid;
+    background: linear-gradient(to right, #f2ff00, #ececec);
+    border-radius: 20px;
+}
+
+.text-head-full-speed-week {
+   margin: 0 auto;
+    max-width: 400px;
+    padding: 15px;
+    text-align: center;
+}
+
+.head-week {
+      margin: 0 auto;
+    margin-top: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-family: "Mitr", sans-serif;
+}
+
+
+
 
  /* git init
 git add .
