@@ -96,6 +96,7 @@
     width: 100%;
     max-width: 400px;
     padding: 15px;
+    text-align: center;
 }
 
 .left-list {
@@ -215,10 +216,9 @@ padding: 3px;
     font-family: "Mitr", sans-serif;
 }
 
-
-/* git init
+ /* git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Camille061/ture-internet.git
-git push -u origin main */
+git remote add origin https://github.com/Camille061/my-what.git
+git push -u origin main  */
